@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshika Srivastava</h1>
 <h3 align="center">A CSE student very much passionate about technologies and loves to explore new fields.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikasrivastava25" alt="anshikasrivastava25" /></a> </p>
-
 - 🔭 I’m currently working on **my skills and daily learning**
 
 - 🌱 I’m currently learning **flutter**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshikasrivastava25&show_icons=true&locale=en&layout=compact" alt="anshikasrivastava25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshikasrivastava25&show_icons=true&locale=en" alt="anshikasrivastava25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikasrivastava25&" alt="anshikasrivastava25" /></p>
