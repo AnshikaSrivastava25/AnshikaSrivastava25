@@ -35,9 +35,7 @@
   </a>
 </p>
 <br>
-
-<!-- [!anshika's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshikasrivastava25&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshikaSrivastava25&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
