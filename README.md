@@ -27,3 +27,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshikaSrivastava25&theme=soft-green&border_radius=4.6)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshikaSrivastava25&bg_color=252324&color=16da23&line=37e192&point=12e258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshikasrivastava25&theme=dark&show_icons=true)
