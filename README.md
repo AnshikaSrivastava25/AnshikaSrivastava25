@@ -24,10 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshikasrivastava25&show_icons=true&locale=en" alt="anshikasrivastava25" /></p>
 
-
-
-
-[!(https://github-readme-streak-stats.herokuapp.com?user=AnshikaSrivastava25&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshikaSrivastava25&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
