@@ -27,4 +27,17 @@
 
 
 
+<br/>
+<p align="left">
+  <a href="http://anshikasrivastava25.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=anshikasrivastava25x&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikasrivastava25&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+
+<!-- [!anshika's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshikasrivastava25&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+
+
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
