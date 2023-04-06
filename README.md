@@ -27,15 +27,7 @@
 
 
 
-<br/>
-<p align="left">
-  <a href="http://anshikasrivastava25.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=anshikasrivastava25x&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikasrivastava25&theme=radical&hide_border=true">		  
-  </a>
-</p>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnshikaSrivastava25&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+[!(https://github-readme-streak-stats.herokuapp.com?user=AnshikaSrivastava25&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
