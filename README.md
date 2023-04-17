@@ -29,3 +29,25 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshikaSrivastava25&bg_color=252324&color=16da23&line=37e192&point=12e258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AnshikaSrivastava25&show_icons=true)
+
+## 2. Most Used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TAnshikaSrivastava25&theme=blue-green)
+
+## 3. Contributors Badge
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=AnshikaSrivastava25/Python)
+
+## 4. Random Joke Generator
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 5. Profile View Counter
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=AnshikaSrivastava25)
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/AnshikaSrivastava25/Python)
+
