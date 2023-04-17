@@ -43,11 +43,3 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 5. Profile View Counter
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AnshikaSrivastava25)
-
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/AnshikaSrivastava25/Python)
-
