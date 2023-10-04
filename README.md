@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my skills and daily learning**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Android App, Kotlin,**
+- 💬 Ask me about **Android App, Kotlin, Flutter**
 
 - 📫Connect with me on Linkedin **www.linkedin.com/in/anshika-srivastava-28a69520a**
 
